@@ -9,7 +9,7 @@ Welcome to the **AI Mentorship Program: From Zero to Hero - Cohort 3**! This rep
 
 Everyone accessing this repository must have **registered** for the program through our official registration link and must have been added to our **WhatsApp Community**. If you have not completed these steps, please do so immediately to ensure you receive all updates, join the live sessions, and access mentorship support.
 
-* **Registration Link:** [PLACEHOLDER: Add Program Registration Link Here]
+* **Registration Link:** [[PLACEHOLDER: Add Program Registration Link Here](https://docs.google.com/forms/d/1QDkdsiOSUBce4Bd3-pWvzwP56Dz_L9ywjTuC2bkP01A/edit )]
 * **WhatsApp Community:** [PLACEHOLDER: Add WhatsApp Group/Community Link Here]
 
 ---
