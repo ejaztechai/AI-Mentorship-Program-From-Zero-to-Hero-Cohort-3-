@@ -1,5 +1,5 @@
 # 🚀 AI Mentorship Program: From Zero to Hero - Cohort 3
-## EJAZTECH AI 3
+## English Track
 
 Welcome to the **AI Mentorship Program: From Zero to Hero - Cohort 3**! This repository serves as a companion to our mentorship program, providing structured guidance, resources, and links to get you started on your journey to becoming an AI expert.
 
