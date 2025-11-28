@@ -10,7 +10,7 @@ Welcome to the **AI Mentorship Program: From Zero to Hero - Cohort 3**! This rep
 Everyone accessing this repository must have **registered** for the program through our official registration link and must have been added to our **WhatsApp Community**. If you have not completed these steps, please do so immediately to ensure you receive all updates, join the live sessions, and access mentorship support.
 
 * **Registration Link:** [https://docs.google.com/forms/d/1QDkdsiOSUBce4Bd3-pWvzwP56Dz_L9ywjTuC2bkP01A/edit ]
-* **WhatsApp Community:** [PLACEHOLDER: Add WhatsApp Group/Community Link Here]
+* **WhatsApp Community:** [https://chat.whatsapp.com/JPSTwdVJ9cOA0RT9TnOOg6]
 
 ---
 
@@ -28,7 +28,7 @@ This cohort follows a **20-week intensive schedule** divided into three distinct
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Phase 1: Foundations** | 4 Weeks | Python Basics & AI for Everyone | Core Programming and AI Literacy | Yes — includes final exam | Dec 1, 2025 | Dec 28, 2025 |
 | **Phase 2: Supervised ML** | 4 Weeks (3 learning + 1 project week) | Supervised Machine Learning: Regression and Classification | Regression & Classification Mastery | Yes — requires project completion & documentation | Dec 29, 2025 | Jan 25, 2026 |
-| **Phase 3: Advanced Deep Learning** | 5 Weeks (4 learning + 1 project week) | Advanced Learning Algorithms | Neural Networks & Tree Ensembles | Yes — requires project completion & documentation | Jan 26, 2026 | Mar 1, 2026 |
+| **Phase 3: Advanced Learning Algorithm** | 5 Weeks (4 learning + 1 project week) | Advanced Learning Algorithms | Neural Networks & Tree Ensembles | Yes — requires project completion & documentation | Jan 26, 2026 | Mar 1, 2026 |
 | **Final Projects** | 6 Projects | N/A | Real-World Application & Portfolio Building | Required for final certificate | Mar 2, 2026 | Apr 19, 2026 |
 
 ---
@@ -38,9 +38,9 @@ This cohort follows a **20-week intensive schedule** divided into three distinct
 Before diving into the courses, make sure to watch our introductory videos:
 
 * **Roadmap to AI Mastery:** Learn about the structured roadmap to guide you through your AI learning journey.
-    * [PLACEHOLDER: Add Roadmap Video Link Here]
+    * [https://youtu.be/akQ2W8xHjS0]
 * **How to Apply for Coursera Financial Aid:** Discover how to apply for financial aid on Coursera to access premium courses for free.
-    * [PLACEHOLDER: Add Financial Aid Video Link Here]
+    * [https://youtu.be/Wrya7M5PzkA]
 
 ---
 
@@ -55,14 +55,14 @@ Below is the structured list of recommended courses to build your AI knowledge s
 
 #### 1. Python Basics
 Learn the fundamentals of Python, the most widely used language in AI and Machine Learning.
-[PLACEHOLDER: Add Python Basics Course Link Here]
+[https://youtu.be/K5KVEU3aaeQ?si=-K7GmcSHF1-FL4LX]
 
 **Table of Content (Weeks 1-2):**
 * `0:00:00` Introduction, `0:00:30` What You Can Do With Python, `0:01:15` Your First Python Program, `0:05:30` Variables, `0:09:08` Receiving Input, `0:10:48` Type Conversion, `0:18:49` Strings, `0:23:41` Arithmetic Operators, `0:25:59` Operator Precedence, `0:27:11` Comparison Operators, `0:28:52` Logical Operators, `0:31:06` If Statements, `0:36:16` Exercise, `0:41:42` While Loops, `0:45:11` Lists, `0:48:47` List Methods, `0:52:16` For Loops, `0:54:54` The `range()` Function, `0:57:43` Tuples
 
 #### 2. AI for Everyone
 A beginner-friendly course introducing the concepts of Artificial Intelligence, its applications, and its impact on society.
-[PLACEHOLDER: Add AI for Everyone Course Link Here]
+[https://www.coursera.org/learn/ai-for-everyone]
 
 **Weekly Topics (Week 3):**
 * Week 1 (Review): What is AI
@@ -82,9 +82,9 @@ A beginner-friendly course introducing the concepts of Artificial Intelligence, 
 #### 3. Supervised Machine Learning: Regression and Classification
 Dive into the core concepts of supervised learning. 
 
-[Image of a scatter plot showing a linear regression line]
 
-[PLACEHOLDER: Add Supervised ML Course Link Here]
+
+[https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction]
 
 **Weekly Topics:**
 * **Week 1:** Introduction to Machine Learning (Linear regression, Cost function, Gradient Descent).
@@ -93,7 +93,7 @@ Dive into the core concepts of supervised learning.
 
 ---
 
-### Phase 3: Advanced Deep Learning (5 Weeks)
+### Phase 3: Advanced Learning Algorithm (5 Weeks)
 **Jan 26, 2026 – Mar 1, 2026**
 
 *Weeks 1–4 focus on core learning.*
@@ -104,9 +104,8 @@ Dive into the core concepts of supervised learning.
 #### 4. Advanced Learning Algorithms
 Master advanced topics like neural networks, decision trees, and hyperparameter tuning. 
 
-[Image of a simple three-layer neural network diagram]
 
-[PLACEHOLDER: Add Advanced Learning Algorithms Course Link Here]
+[https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction]
 
 **Weekly Topics:**
 * **Week 1:** Neural Network Intuition (Layers, Forward propagation, TensorFlow implementation).
@@ -137,8 +136,8 @@ You will work on **6 real-world projects** to apply everything you learned.
 
 ## 📘 Additional Resources
 
-* **Kaggle:** [PLACEHOLDER: Add Kaggle Link Here]
-* **DeepLearning.AI:** [PLACEHOLDER: Add DeepLearning.AI Link Here]
+* **Kaggle:** [https://www.kaggle.com/]
+* **DeepLearning.AI:** [https://www.deeplearning.ai/]
 
 ---
 
@@ -153,15 +152,7 @@ Thank you both for enabling millions of learners worldwide.
 
 ---
 
-## 🙋 Need Help?
 
-Contact the **EJAZTECH.AI** team:
-
-* **Email:** [PLACEHOLDER: Add EjazTech Email Here]
-* **LinkedIn:** [PLACEHOLDER: Add EjazTech LinkedIn Here]
-* **Kaggle:** [PLACEHOLDER: Add EjazTech Kaggle Link Here]
-
----
 
 ## 📝 Contributions & License
 
