@@ -51,7 +51,7 @@ Below is the structured list of recommended courses to build your AI knowledge s
 ### Phase 1: Foundations (4 Weeks)
 **Dec 1, 2025 – Dec 28, 2025**
 
-*Note: Weeks 1–3 focus on core learning. Week 4 is a Hands-on Project Session. There will be a **Final Exam** after Phase 1.*
+*There will be a **Final Exam** after Phase 1.*
 
 #### 1. Python Basics
 Learn the fundamentals of Python, the most widely used language in AI and Machine Learning.
@@ -68,7 +68,8 @@ A beginner-friendly course introducing the concepts of Artificial Intelligence, 
 * Week 1 (Review): What is AI
 * Week 2 (Review): Building AI Projects
 * Week 3: AI in Your Company & AI and Society (Weeks 3 & 4 of the course content).
-
+* Week 3: AI and Society.
+* 
 ---
 
 ### Phase 2: Supervised Machine Learning (4 Weeks)
