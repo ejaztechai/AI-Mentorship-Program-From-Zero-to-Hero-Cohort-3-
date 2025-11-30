@@ -28,8 +28,8 @@ This cohort follows a **20-week intensive schedule** divided into three distinct
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Phase 1: Foundations** | 4 Weeks | Python Basics & AI for Everyone | Core Programming and AI Literacy | Yes — includes final exam | Dec 1, 2025 | Dec 28, 2025 |
 | **Phase 2: Supervised ML** | 4 Weeks (3 learning + 1 project week) | Supervised Machine Learning: Regression and Classification | Regression & Classification Mastery | Yes — requires project completion & documentation | Dec 29, 2025 | Jan 25, 2026 |
-| **Phase 3: Advanced Learning Algorithm** | 5 Weeks (4 learning + 1 project week) | Advanced Learning Algorithms | Neural Networks & Tree Ensembles | Yes — requires project completion & documentation | Jan 26, 2026 | Mar 1, 2026 |
-| **Final Projects** | 6 Projects | N/A | Real-World Application & Portfolio Building | Required for final certificate | Mar 2, 2026 | Apr 19, 2026 |
+| **Phase 3: Advanced Learning Algorithm** | 6 Weeks (5 learning + 1 project week) | Advanced Learning Algorithms | Neural Networks & Tree Ensembles | Yes — requires project completion & documentation | Jan 26, 2026 | Mar 8, 2026 |
+| **Final Projects** | 6 Projects | N/A | Real-World Application & Portfolio Building | Required for final certificate | Mar 9, 2026 | Apr 19, 2026 |
 
 ---
 
@@ -95,10 +95,10 @@ Dive into the core concepts of supervised learning.
 ---
 
 ### Phase 3: Advanced Learning Algorithm (5 Weeks)
-**Jan 26, 2026 – Mar 1, 2026**
+**Jan 26, 2026 – Mar 8, 2026**
 
-*Weeks 1–4 focus on core learning.*
-*Week 5 is a **Project Week**, including a Monday Hands-on Project Session.*
+*Weeks 1–5 focus on core learning.*
+*Week 6 is a **Project Week**, including a Monday Hands-on Project Session.*
 
 > 🏆 **Certification Requirement:** To receive the Phase 3 certificate, you must complete the project and document your learning on LinkedIn mentioning EjazTech.AI.
 
@@ -112,12 +112,12 @@ Master advanced topics like neural networks, decision trees, and hyperparameter 
 * **Week 1:** Neural Network Intuition (Layers, Forward propagation, TensorFlow implementation).
 * **Week 2:** Neural Network Training (Activation functions, Multiclass Classification, Softmax, Advanced Optimization).
 * **Week 3:** Advice for Applying ML (Model Evaluation, Bias/variance, Regularization, Error analysis, Transfer learning).
-* **Week 4:** Decision Trees (Decision tree model, Learning Process, Information Gain).
+* **Week 4 & 5:** Decision Trees (Decision tree model, Learning Process, Information Gain).
 
 ---
 
 ## 💡 Final Projects (6 Projects)
-**Mar 2, 2026 – Apr 19, 2026**
+**Mar 9, 2026 – Apr 19, 2026**
 
 You will work on **6 real-world projects** to apply everything you learned.
 
