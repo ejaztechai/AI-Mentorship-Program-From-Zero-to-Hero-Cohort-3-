@@ -64,10 +64,10 @@ Learn the fundamentals of Python, the most widely used language in AI and Machin
 A beginner-friendly course introducing the concepts of Artificial Intelligence, its applications, and its impact on society.
 [https://www.coursera.org/learn/ai-for-everyone]
 
-**Weekly Topics (Week 3):**
+**Weekly Topics (Week 4):**
 * Week 1 (Review): What is AI
 * Week 2 (Review): Building AI Projects
-* Week 3: AI in Your Company & AI and Society (Weeks 3 & 4 of the course content).
+* Week 3: AI in Your Company 
 * Week 3: AI and Society.
 * 
 ---
